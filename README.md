@@ -1,2 +1,2 @@
 # pandas-challenge
-Heroes Of Pymoli - video games challenge 
+Heroes Of Pymoli - video games analysis
