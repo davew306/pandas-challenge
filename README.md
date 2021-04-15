@@ -17,3 +17,9 @@ The Resources folder contains the data set
 
 The source code is in the file 'HeroesOfPymoli_dw.ipynb'
 
+<br>
+Thank You for viewing this project.
+
+
+David Wu
+davew306@gmail.com
