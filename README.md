@@ -1,5 +1,5 @@
 # Pandas-Challenge
-Heroes Of Pymoli - video games analysis
+Heroes Of Pymoli - Video Game analysis
 
 There are 780 Purchases with 179 Unique Items with $3.05 Average Price
 
