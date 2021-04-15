@@ -14,3 +14,5 @@ One of the top spenders is Lisosia93 with a Total Purchase Value of $18.96
 The Resources folder contains the data set
 
 The source code is in the file 'HeroesOfPymoli_dw.ipynb'
+
+The data set is in the Resources folder
