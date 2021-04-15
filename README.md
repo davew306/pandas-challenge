@@ -10,3 +10,5 @@ There are 780 Purchases with 179 Unique Items with $3.05 Average Price
 One of the top spenders is Lisosia93 with a Total Purchase Value of $18.96
 
 'Oathbreaker, Last Hope of the Breaking Storm' is the game that sold the best, at a Total Purchase Value of $50.76
+
+The Resources folder contains the data set
