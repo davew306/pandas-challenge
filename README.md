@@ -1,6 +1,8 @@
 # Pandas-Challenge
 Heroes Of Pymoli - Video Game analysis
 
+This Project uses the Pandas package to group and analyze the data of purchases from a video game 
+
 There are 780 Purchases with 179 Unique Items with $3.05 Average Price
 
 84% of Players are Male, 14.1% Female and 1.9% Other
